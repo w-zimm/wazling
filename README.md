@@ -1,2 +1,2 @@
 # wazling
-:3
+Hi! I don't know how to use github.
